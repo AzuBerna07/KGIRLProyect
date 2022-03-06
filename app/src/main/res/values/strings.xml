@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">KGIRLProyect</string>
+    <string name="welcome">Bienvenido a Kgirl</string>
+    <string name="e_mail">e-mail</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="singUp">Registrar</string>
+    <string name="name">Nombre</string>
+    <string name="signup">Registrate</string>
+    <string name="loginitem">Iniciar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_inicio">Inicio</string>
+    <string name="title_venta">Ventas</string>
+    <string name="title_producto">Productos</string>
+    <string name="title_informe">Informes</string>
+    <string name="title_perfil">Perfil</string>
+</resources>
