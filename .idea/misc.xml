@@ -8,12 +8,25 @@
         <entry key="..\:/Users/azucena/AndroidStudioProjects/KGIRLProyect/app/src/main/res/drawable/view_bg.xml" value="0.20260416666666667" />
         <entry key="..\:/Users/azucena/AndroidStudioProjects/KGIRLProyect/app/src/main/res/layout/activity_login.xml" value="0.18" />
         <entry key="..\:/Users/azucena/AndroidStudioProjects/KGIRLProyect/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Users/azucena/AndroidStudioProjects/KGIRLProyect/app/src/main/res/layout/activity_menu.xml" value="0.25" />
+        <entry key="..\:/Users/azucena/AndroidStudioProjects/KGIRLProyect/app/src/main/res/layout/activity_menu.xml" value="0.2" />
+        <entry key="..\:/Users/azucena/AndroidStudioProjects/KGIRLProyect/app/src/main/res/layout/fragment_informes.xml" value="0.15081521739130435" />
         <entry key="..\:/Users/azucena/AndroidStudioProjects/KGIRLProyect/app/src/main/res/layout/fragment_login_tab_item.xml" value="0.14673913043478262" />
+        <entry key="..\:/Users/azucena/AndroidStudioProjects/KGIRLProyect/app/src/main/res/layout/fragment_settings_fragment.xml" value="0.15081521739130435" />
         <entry key="..\:/Users/azucena/AndroidStudioProjects/KGIRLProyect/app/src/main/res/layout/fragment_signup_tab_item.xml" value="0.14673913043478262" />
+        <entry key="..\:/Users/azucena/AndroidStudioProjects/KGIRLProyect/app/src/main/res/layout/informes_fragment.xml" value="0.15081521739130435" />
         <entry key="..\:/Users/azucena/AndroidStudioProjects/KGIRLProyect/app/src/main/res/layout/login_tab_fragment.xml" value="0.25" />
         <entry key="..\:/Users/azucena/AndroidStudioProjects/KGIRLProyect/app/src/main/res/layout/singup_tab_fragment.xml" value="0.2" />
         <entry key="..\:/Users/azucena/AndroidStudioProjects/KGIRLProyect/app/src/main/res/menu/bottom_nav_menu.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/azucena/Documents/KGIRLProyect/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/azucena/Documents/KGIRLProyect/app/src/main/res/layout/activity_main.xml" value="0.13858695652173914" />
+        <entry key="..\:/Users/azucena/Documents/KGIRLProyect/app/src/main/res/layout/activity_menu.xml" value="0.21" />
+        <entry key="..\:/Users/azucena/Documents/KGIRLProyect/app/src/main/res/layout/fragment_dashboard.xml" value="0.13858695652173914" />
+        <entry key="..\:/Users/azucena/Documents/KGIRLProyect/app/src/main/res/layout/fragment_informes.xml" value="0.1621376811594203" />
+        <entry key="..\:/Users/azucena/Documents/KGIRLProyect/app/src/main/res/layout/fragment_notifications.xml" value="0.13858695652173914" />
+        <entry key="..\:/Users/azucena/Documents/KGIRLProyect/app/src/main/res/layout/fragment_settings.xml" value="0.1621376811594203" />
+        <entry key="..\:/Users/azucena/Documents/KGIRLProyect/app/src/main/res/menu/bottom_nav_menu.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/azucena/Documents/KGIRLProyect/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/azucena/Documents/KGIRLProyect/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.20260416666666667" />
       </map>
     </option>
   </component>

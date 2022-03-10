@@ -56,16 +56,7 @@ public class MainActivity extends AppCompatActivity  {
             }
         },SPLASH_SCREEN);
 
-        //METODO PARA CAMBIAR DE ACTIVITY POR BUTTON status pendiente por que no me carga
-        btnInciar.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent in = new Intent(MainActivity.this,Menu.class);
-                startActivity(in);
-                finish();
 
-            }
-        });
     }
 
 }
